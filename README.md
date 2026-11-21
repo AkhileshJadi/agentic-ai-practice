@@ -7,4 +7,4 @@ Learning and building practical Agentic AI engineering projects.
 - Day 8: API error handling
 - Day 10: Git branches and merging
 - Day 11: GitHub and remote repositories
-- - Day 12: Git collaboration and synchronization
+- Day 12: Git collaboration and synchronization
