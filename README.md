@@ -1,6 +1,6 @@
 # Agentic AI Practice
 
-Learning and building practical Agentic AI engineering projects.
+Learning and building enterprise-grade Agentic AI engineering projects.
 
 ## Progress
 - Day 7: API requests
